@@ -8,4 +8,15 @@
 ---
 ## 動作環境  
 ・Raspberry Pi 4B  
-・
+・ubunt20.04.3 server  
+・ROS1  
+
+---
+## 動作方法  
+### [インストールする]  
+以下のコマンドをディレクトリ内で実行してください。  
+```
+$cd ~/catkin_ws/src  
+$git clone 
+$
+$
