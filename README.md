@@ -17,11 +17,9 @@
 以下のコマンドをディレクトリ内で実行してください。  
 
 ①catkin_ws/srcに移動。  
-```  
+```
 $cd ~/catkin_ws/src  
 ```  
-  
-  
 ②今回使うリポジトリをクローンする。  
 ```  
 $git clone https://github.com/Koutarou1123/kadai2.git  
