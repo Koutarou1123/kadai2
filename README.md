@@ -24,7 +24,7 @@ $cd ~/catkin_ws/src
 ②今回使うリポジトリをクローンする。  
 ```
 $git clone https://github.com/Koutarou1123/kadai2.git  
-```  
+```
 
 ③makeする。  
 ```  
