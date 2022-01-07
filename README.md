@@ -53,6 +53,7 @@ twice.pyをrosで動かす。
 ```  
 $rosrun mypkg twice.py  
 ```  
+ここで実行したプログラムが動いているのを確認する。  
 
 ⑧次に初めにroscore開いた方での操作  
 (rosに何が入っているか見たい場合)  
@@ -63,11 +64,6 @@ $rostopic list
 ⑨count.pyが正常に動いているかの確認。抜け出すにはctrl+Cを使用する。   
 ```  
 $rostopic echo /count_up  
-```  
-
-⑩twice.pyが正常に動いているかの確認。抜け出すにはctrl+Cを使用する。  
-```  
-$rostopic echo /twice  
 ```  
 
 ## 実行結果  
