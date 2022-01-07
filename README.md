@@ -69,7 +69,7 @@ $rostopic echo /count_up
 ```  
 $rostopic echo /twice  
 ```  
-<br>
+
   
 
 
