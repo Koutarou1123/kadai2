@@ -74,6 +74,8 @@ $rostopic echo /twice
 ---
 以下のリンクから今回の動画がyoutubeで見ることが可能です。  
 
+動画で見にくい方はこちらの写真をご覧ください。  
+
 ## ライセンス  
 ---
 BSD 2-Clause "Simplified" License  
