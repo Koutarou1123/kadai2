@@ -3,10 +3,15 @@ import rospy
 from std_msgs.msg import Int32
 
 n = 0
-
 def cb(message):
     global n
-    n = message.data*2
+    n = message.data*3
+
+    if n % 2 == 0:
+        rospy.loginfo(n)
+
+    else:
+        rospy.loginfo('\(*_*)')
 
 if __name__ =='__main__':
     rospy.init_node('twice')
@@ -15,5 +20,3 @@ if __name__ =='__main__':
     rate = rospy.Rate(10)
     while not rospy.is_shutdown():
         pub.publish(n)
-        rate.sleep()
-
