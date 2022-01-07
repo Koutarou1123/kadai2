@@ -71,7 +71,7 @@ $rostopic echo /count_up
 以下のリンクから今回の動画がyoutubeで見ることが可能です。  
 
 動画で見にくい方はこちらの写真をご覧ください。  
-
+![ロボシスカウント](https://user-images.githubusercontent.com/95609545/148554056-9f996a7d-ff46-4ab6-a253-9e10e6efabff.jpg)
 ## ライセンス  
 ---
 BSD 2-Clause "Simplified" License  
