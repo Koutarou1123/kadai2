@@ -70,6 +70,14 @@ $rostopic echo /count_up
 $rostopic echo /twice  
 ```  
 
+## 実行結果  
+---
+以下のリンクから今回の動画がyoutubeで見ることが可能です。  
+
+## ライセンス  
+---
+
+
   
 
 
