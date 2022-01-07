@@ -15,8 +15,15 @@
 ## 動作方法  
 ### [インストールする]  
 以下のコマンドをディレクトリ内で実行してください。  
-```
+```  
+catkin_ws/srcに移動。  
 $cd ~/catkin_ws/src  
-$git clone 
-$
-$
+
+今回使うリポジトリをクローンする。  
+$git clone https://github.com/Koutarou1123/kadai2.git  
+
+makeする。  
+$cd ~/catkin_ws  
+$catkin_make  
+
+rosを起動させるために以下のコマンドを打ち込む。  
