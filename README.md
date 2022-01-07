@@ -20,54 +20,56 @@
 ```  
 $cd ~/catkin_ws/src  
 ```  
-今回使うリポジトリをクローンする。  
+②今回使うリポジトリをクローンする。  
 ```  
 $git clone https://github.com/Koutarou1123/kadai2.git  
 ```  
 
-makeする。  
+③makeする。  
 ```  
 $cd ~/catkin_ws  
 $catkin_make  
 ```  
 
-rosを起動させるために以下のコマンドを打ち込む。  
+④rosを起動させるために以下のコマンドを打ち込む。  
 ```  
 roscore &  
 ```  
 
-別の端末を二つ起動しscriptsに移動。
+⑤別の端末を二つ起動しscriptsに移動。
 ```  
 $cd ~/catkin_ws/src/mypkg/kadai2/scripts  
 ```  
 
-別端末の一つ目での操作  
+⑥別端末の一つ目での操作  
 count.pyをrosで動かす。  
 ```  
 $rosrun mypkg count.py  
 ```  
 
-別端末の二つ目での操作  
+⑦別端末の二つ目での操作  
 twice.pyをrosで動かす。  
 ```  
 $rosrun mypkg twice.py  
 ```  
 
-次に初めにroscore開いた方での操作  
+⑧次に初めにroscore開いた方での操作  
 (rosに何が入っているか見たい場合)  
 ```  
 $rostopic list  
 ```  
 
-count.pyが正常に動いているかの確認。   
+⑨count.pyが正常に動いているかの確認。   
 ```  
 $rostopic echo /count_up  
 ```  
 
-twice.pyが正常に動いているかの確認。  
+⑩twice.pyが正常に動いているかの確認。  
 ```  
 $rostopic echo /twice  
 ```  
+
+
 
 
 
