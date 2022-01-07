@@ -60,12 +60,12 @@ $rosrun mypkg twice.py
 $rostopic list  
 ```  
   
-⑨count.pyが正常に動いているかの確認。   
+⑨count.pyが正常に動いているかの確認。抜け出すにはctrl+Cを使用する。   
 ```  
 $rostopic echo /count_up  
 ```  
   
-⑩twice.pyが正常に動いているかの確認。  
+⑩twice.pyが正常に動いているかの確認。抜け出すにはctrl+Cを使用する。  
 ```  
 $rostopic echo /twice  
 ```  
