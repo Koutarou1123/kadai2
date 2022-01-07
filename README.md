@@ -76,7 +76,8 @@ $rostopic echo /twice
 
 ## ライセンス  
 ---
-
+BSD 2-Clause "Simplified" License  
+ライセンスの詳細が見たい場合はリポジトリ内にあるLICENCEを参照してください。
 
   
 
