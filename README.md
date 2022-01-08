@@ -69,7 +69,7 @@ $rostopic echo /count_up
 ## 実行結果  
 ---
 以下のリンクから今回の動画がyoutubeで見ることが可能です。  
-https://youtu.be/6SApEPgf9x0
+https://youtu.be/6SApEPgf9x0  
 動画で見にくい方はこちらの写真をご覧ください。  
 <img src="https://user-images.githubusercontent.com/95609545/148554056-9f996a7d-ff46-4ab6-a253-9e10e6efabff.jpg" width="500">
 <img src="https://user-images.githubusercontent.com/95609545/148554225-05b1f70f-af0a-4b4e-82c5-e793bea6371b.jpg" width="500">  
